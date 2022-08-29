@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dabur0
-- 👀 I’m interested in a lot of stuff.
+- 👀 I’m interested basic millennial/ zoomer stuff with the exception of social media.
 - 🌱 I’m currently learning CS at UIC.
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me ookund2@uic.edu

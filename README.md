@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dabur0
-- 👀 I’m interested basic millennial/ zoomer stuff with the exception of social media.
-- 🌱 I’m currently learning CS at UIC.
-- 💞️ I’m looking to collaborate on nothing right now.
-- 📫 How to reach me ookund2@uic.edu
+- Name's @Dabur0
+- I’m interested basic millennial/ zoomer stuff with the exception of social media.
+- I’m currently learning CS at UIC.
+- I’m looking to collaborate on nothing right now.
+- How to reach me ookund2@uic.edu
 
 <!---
 Dabur0/Dabur0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
